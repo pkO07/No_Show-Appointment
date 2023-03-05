@@ -1,4 +1,2 @@
 *.python linguist-detectable=true
-*.pandas linguist-detectable=true
-*.seaborn linguist-detectable=true
 *.jupyter notebook linguist-detectable=false
