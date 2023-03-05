@@ -1,2 +1,2 @@
 *.python linguist-detectable=true
-*.jupyter Notebook linguist-detectable=false
+*.jupyternotebook linguist-detectable=false
